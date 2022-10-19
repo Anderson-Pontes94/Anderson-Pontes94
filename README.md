@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Anderson Almeida
+- 👀 I'm interested in learning to program.
+- 🌱 I'm currently learning HTML, JavaScript and Python.
+- 💞️ I try to collaborate with what I know.
+- 📫 How to reach me: @andersonpontesalmeida
