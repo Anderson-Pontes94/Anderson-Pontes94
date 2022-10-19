@@ -56,11 +56,6 @@
 <br><br>
 
 <div>
-![Snake animation](https://github.com/Anderson-Pontes94/Anderson-Pontes94/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-<BR><BR>
-<div>
     <img src="https://img.shields.io/static/v1?label=Overview&message=ANDERSON ALMEIDA&color=f8efd4&style=for-the-badge&logo=GitHub">
 </div>
 
