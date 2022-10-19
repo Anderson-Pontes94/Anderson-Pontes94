@@ -53,7 +53,11 @@
   <a href="https://github.com/Anderson-Pontes94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Pontes94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+<br><br>
 
+<div>
+![Snake animation](https://github.com/Anderson-Pontes94/Anderson-Pontes94/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <BR><BR>
 <div>
