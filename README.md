@@ -10,7 +10,7 @@
 - 👨🏻‍🎓 &nbsp; Áreas de Estudo: *Técnico em Informática* e *Ciências Contábeis*
 - 🤜🏻 &nbsp; Áreas de Atuação: Gerenciamento de Equipe, Administrativa, RH/DP, Financeiro, Fiscal, Tecnologia, Cobrança, Marketing...  
 
-## 💬 Meus Contatos e Redes
+## 📲 Meus Contatos
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Anderson-Pontes94)](https://github.com/Anderson-Pontes94)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white&link=https://github.com/Anderson-Pontes94)](https://replit.com/@14282492732)
@@ -24,7 +24,7 @@
 
 </h4>
 
-## 🚀 Minhas Skills
+## 💥 O Que Sei / O Que Estou Aprendendo
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -47,7 +47,7 @@
 [![Replit](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)]()
 
 
-## ⭐ Informações sobre minha conta GitHub
+## ✍🏼 Meu GitHub (Loading...)
 
 <div align="center">
   <a href="https://github.com/Anderson-Pontes94">
