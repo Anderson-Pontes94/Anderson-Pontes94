@@ -50,13 +50,22 @@
 ## ✍🏼 Meu GitHub (Loading...)
 
 <div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Pontes94&layout=compact)](https://github.com/Anderson-Pontes94/github-readme-stats)
+
+</div>
+
+<div align="center">
   <a href="https://github.com/Anderson-Pontes94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Pontes94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+
 <br><br>
 
 <div>
     <img src="https://img.shields.io/static/v1?label=Overview&message=ANDERSON ALMEIDA&color=f8efd4&style=for-the-badge&logo=GitHub">
 </div>
+
+
 
 ###
